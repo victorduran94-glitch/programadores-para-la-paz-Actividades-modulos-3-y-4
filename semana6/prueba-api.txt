@@ -1,0 +1,20 @@
+Nombre: Victor Manuel Duran Blanco 
+Fecha: 07/06/2026
+Rama: Victor_Duran 
+
+Cuandom yo ejecuto el siguiente codigo en thunder client
+
+{
+    "nombre": "Víctor",
+    "mensaje": "Quiero participar en la comunidad"
+}
+
+El servidor me responde lo siguienete: 3
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Víctor",
+  "mensaje": "Quiero participar en la comunidad"
+}
+
+

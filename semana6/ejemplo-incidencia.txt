@@ -1,0 +1,12 @@
+Nombre: Victor Manuel Duran Blanco 
+Fecha: 07/06/2026
+Rama: Victor_Duran 
+ 
+ R: ejemplo de incidencia 
+ {
+    "tipo": "Cancha de beisbol sin rejas"
+    "descripcion": "La cancha de beibol no tiene y puede perderse los equipos de los niños desde la comunidad le pedimos a la administracion que pongan las rejas"
+ }
+
+
+
