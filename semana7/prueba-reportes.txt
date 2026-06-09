@@ -1,0 +1,37 @@
+Cuando yo aplico el siguiente codigo en thunder client en GET:
+ {
+    
+    "tipo": " Basura en el parque ",
+    "descripcion": "El parque tiene mucho sucio y los niños no pueden jugar"
+  }
+
+  El servidor me responde de la siguiente manera:
+
+  [
+  {
+    "id": 1,
+    "tipo": " Basura en el parque ",
+    "descripcion": "El parque tiene mucho sucio y los niños no pueden jugar"
+  }
+]
+ 
+ Cuando aplico en Post el siguiente codigo:
+
+ {
+    
+    "tipo": "Cancha de beisbol sin rejas",
+    "descripcion": "La cancha de beibol no tiene y puede perderse los equipos de los niños desde la comunidad le pedimos a la administracion que pongan las rejas"
+  } 
+
+  El servidor me responde de la siguiente manera: 
+
+  {
+  "mensaje": "Reporte registrado",
+  "reporte": 
+    "id": 1,
+    "tipo": "Cancha de beisbol sin rejas",
+    "descripcion": "La cancha de beibol no tiene y puede perderse los equipos de los niños desde la comunidad le pedimos a la administracion que pongan las rejas"
+  
+}
+
+Lo que nos da a entender que el servidor funciona y el id pone el numero de reportes 

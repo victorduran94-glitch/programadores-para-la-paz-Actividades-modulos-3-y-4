@@ -1,0 +1,14 @@
+Ejeplo 1 con GET:
+ {
+    
+    "tipo": " Basura en el parque ",
+    "descripcion": "El parque tiene mucho sucio y los niños no pueden jugar"
+  }
+
+
+Ejemplo con POST:
+{
+    
+    "tipo": "Cancha de beisbol sin rejas",
+    "descripcion": "La cancha de beibol no tiene y puede perderse los equipos de los niños desde la comunidad le pedimos a la administracion que pongan las rejas"
+  } 
